@@ -1,0 +1,38 @@
+{
+  "name": "weather-cli-kg",
+  "version": "1.0.0",
+  "description": "CLI for getting weather in realtime in kyrgyz language.",
+  "main": "weather.js",
+  "bin": {
+    "weather": "weather.js"
+  },
+  "type": "module",
+  "engines": {
+    "node": ">=14"
+  },
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "weather"
+  ],
+  "author": "Jumanazar Nizamidonov",
+  "license": "ISC",
+  "homepage": "https://github.com/JumanDef/weather-cli-kg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JumanDef/weather-cli-kg"
+  },
+  "bugs": {
+    "email": "jumanazar.dev@gmail.com",
+    "url": "https://github.com/JumanDef/weather-cli-kg"
+  },
+  "dependencies": {
+    "axios": "0.27.2",
+    "chalk": "5.0.1",
+    "dedent": "0.7.0",
+    "translate": "1.4.1"
+  }
+}
