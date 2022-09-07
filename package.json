@@ -1,6 +1,6 @@
 {
   "name": "weather-cli-kg",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CLI for getting weather in realtime in kyrgyz language.",
   "main": "weather.js",
   "bin": {
@@ -11,7 +11,7 @@
     "node": ">=14"
   },
   "scripts": {
-    "dev": "node index.js",
+    "dev": "node weather.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
