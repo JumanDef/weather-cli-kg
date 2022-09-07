@@ -1,6 +1,6 @@
 {
   "name": "weather-cli-kg",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "CLI for getting weather in realtime in kyrgyz language.",
   "main": "weather.js",
   "bin": {

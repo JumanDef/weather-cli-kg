@@ -10,9 +10,9 @@ npm i weather-cli-kg
 
 **2. ## COMMANDS**
 
-|             |             |
-| ----------- | ----------- |
-| [`weather`] | Get weather |
-| [`-t`]      | Set token   |
-| [`-s`]      | Set city    |
-| [`-h`]      | Get help    |
+|           |             |
+| --------- | ----------- |
+| `weather` | Get weather |
+| `-t`      | Set token   |
+| `-s`      | Set city    |
+| `-h`      | Get help    |
